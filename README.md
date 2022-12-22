@@ -1,3 +1,1 @@
-# Mastering PHP 7 NOTE
-
-#index
+# Mastering PHP 7 NOT
